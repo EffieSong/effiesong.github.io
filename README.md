@@ -10,11 +10,11 @@ AEIOU
 <div align="center">
 <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1974.jpg" width="30%" height="30%">
 <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1978.jpg" width="30%" height="30%">
-<img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1980.jpg" width="30%" height="30%">
-<img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1982.jpg" width="30%" height="30%">
-    <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1983.jpg" width="30%" height="30%">
-    <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1984.jpg" width="30%" height="30%">
-    <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1985.jpg" width="30%" height="30%">
+<img src="https://github.com/EffieSong/effiesong.github.io/blob/master/img-folder/WechatIMG729.jpeg" width="30%" height="30%">
+<img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/WechatIMG730.jpeg" width="30%" height="30%">
+    <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/WechatIMG731.jpeg" width="30%" height="30%">
+    <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/WechatIMG732.jpeg" width="30%" height="30%">
+    
 </div>
 
     
