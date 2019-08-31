@@ -3,8 +3,8 @@
 
 ### Research
 Behaviour Mapping
-![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/Behaviour Mapping.jpg)
+![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/BehaviourMapping.jpg)
 AEIOU
-![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/AEIOU)
+![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/AEIOU.jpg)
 ### Sketch 
-![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/first sketch.jpeg)
+![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/firstsketch.jpeg)
