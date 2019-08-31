@@ -16,9 +16,10 @@ AEIOU
     <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/WechatIMG732.jpeg" width="32%" height="32%">
     
 </div>
-
-    
-
+### Brainstorming Tree
+<div align="center">
+<img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/bstmtree.jpeg>
+</div>
 
 
 ### Sketch
