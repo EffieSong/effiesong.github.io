@@ -19,8 +19,7 @@ AEIOU
 
 ### Brainstorming tree
 <div align="center">
-<img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/bstmtree.jpeg>
-          
+<img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/bstmtree.jpeg>        
 </div>
 
 
