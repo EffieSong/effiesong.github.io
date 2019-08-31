@@ -10,11 +10,11 @@ AEIOU
 <div align="center">
 <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1974.jpg" width="30%" height="30%">
 <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1978.jpg" width="30%" height="30%">
-<img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1980.HEIC" width="30%" height="30%">
-<img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1982.HEIC" width="30%" height="30%">
-    <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1983.HEIC" width="30%" height="30%">
-    <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1984.HEIC" width="30%" height="30%">
-    <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1985.HEIC" width="30%" height="30%">
+<img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1980.jpg" width="30%" height="30%">
+<img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1982.jpg" width="30%" height="30%">
+    <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1983.jpg" width="30%" height="30%">
+    <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1984.jpg" width="30%" height="30%">
+    <img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/IMG_1985.jpg" width="30%" height="30%">
 </div>
 
     
