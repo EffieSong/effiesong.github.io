@@ -18,9 +18,7 @@ AEIOU
 </div>
 
 ### Brainstorming tree
-<div align="center">
-<img src="https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/bstmtree.jpeg>        
-</div>
+![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/bstmtree.jpeg)
 
 
 ### Sketch
