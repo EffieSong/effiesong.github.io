@@ -17,8 +17,8 @@ AEIOU
     
 </div>
 
-    
-
+### Brainstorming tree
+![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/bstmtree.jpeg)
 
 
 ### Sketch
