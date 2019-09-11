@@ -1,6 +1,6 @@
 
-## Instruction Sets for Stranger
-
+# Instruction Sets for Stranger
+## Prototype 1
 ### Research
 Behaviour Mapping
 ![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/BehaviourMapping.jpg)
@@ -20,6 +20,7 @@ AEIOU
 ### Brainstorming tree
 ![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/bstmtree.jpeg)
 
-
 ### Sketch
 ![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/firstsketch.jpeg)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vToB4erIa7uyDu2GPZIpDO1b1OsY82TWadfH2Azsg789Id7wfAD-lRrurY8fHzk-WIuNHc4sNgYMUq5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
