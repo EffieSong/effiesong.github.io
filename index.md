@@ -2,5 +2,5 @@
 layout: default
 ---
 
-# Instruction Sets for Stranger
-## [Prototype 1](./pro1.html)
+# Major Studio 1
+## [Instruction Set for Strangers](./pro1.html)
