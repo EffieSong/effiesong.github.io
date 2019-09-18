@@ -34,4 +34,6 @@ We relocated our site due to the flow of people is too small on this site. The n
 In prototype 2, we got a good result of interaction, but we still didn't achieve our goal. The biggest problem is that the balloons were not high and stable enough so we failed to make people look up. For the next step, we tried to higher the balloons and make it less troublesome. We also reconsidered the form of the box, the object flying above and the connection between the box and flying object.
 
 We came up with several ways to make it higher, and finally decided to still use flying balloons.
+![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/Screenshot%202019-09-18%20at%2011.03.54%20AM.png)
+
 
