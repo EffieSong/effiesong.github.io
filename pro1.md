@@ -31,9 +31,13 @@ We relocated our site due to the flow of people is too small on this site. The n
 <iframe src="https://onedrive.live.com/embed?cid=1BB84E1B5BCA1DF2&amp;resid=1BB84E1B5BCA1DF2%21107&amp;authkey=AAKL0qaOz4uM4d8&amp;em=2&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">这是嵌入 <a target="_blank" href="https://office.com">Microsoft Office</a> 演示文稿，由 <a target="_blank" href="https://office.com/webapps">Office</a> 提供支持。</iframe>
 
 ## Prototype 3
-In prototype 2, we got a good result of interaction, but we still didn't achieve our goal. The biggest problem is that the balloons were not high and stable enough so we failed to make people look up. For the next step, we tried to higher the balloons and make it less troublesome. We also reconsidered the form of the box, the object flying above and the connection between the box and flying object.
+In prototype 2, we got a good result of interaction but still didn't achieve our goal. The biggest problem is that the balloons were not high and stable enough so we failed to make people look up. For the next step, we first tried to higher the balloons and make it less troublesome. 
 
 We came up with several ways to make it higher, and finally decided to still use flying balloons.
 ![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/Screenshot%202019-09-18%20at%2011.03.54%20AM.png)
+Then we thinked about how to make it less troublesome cause people don't want the line getting in their way.
+![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/Screenshot%202019-09-18%20at%2011.04.09%20AM.png)
 
-
+We also reconsidered the form of the object flying above and decided to use fluorescent Painting. People can use attached ultra-violet flash light to see the painting on the balloons at night. 
+![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/Screenshot%202019-09-18%20at%2011.04.21%20AM.png)
+![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/WechatIMG768.jpeg)
