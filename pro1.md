@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-
-# Prototype 1
+# Instruction Set for Strangers
+## Prototype 1
 ## Research
 Behaviour Mapping
 ![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/BehaviourMapping.jpg)
