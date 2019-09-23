@@ -41,3 +41,14 @@ Then we thinked about how to make it less troublesome cause people don't want th
 We also reconsidered the form of the object flying above and decided to use fluorescent Painting. People can use attached ultra-violet flash light to see the painting on the balloons at night. 
 ![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/Screenshot%202019-09-18%20at%2011.04.21%20AM.png)
 ![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/WechatIMG768.jpeg)
+Making progress
+![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/MakingProcess.png)
+![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/onsite1.png)
+On-site
+![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/onsite2.png)
+![](https://github.com/EffieSong/effiesong.github.io/raw/master/img-folder/onsite3.png)
+Thinking
+On-site is always having some differentiation with imagination, result would be much better if stick in one idea for three weeks.
+Helium ballon is fragile and short-lasting, not suitable for a long-time project
+
+
