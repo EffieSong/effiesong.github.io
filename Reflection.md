@@ -19,9 +19,7 @@ The article gave some tricks about how to look at things from a new perspective 
 We may have lots of ideas in our project but we could not implement most of it at the same time in one project. 7 in 7  gives us chance to prototype our ideas. Also, taking the upcoming  7 in 7 as a chance to think of my research questions from different perspectives would be helpful to find our own position and create something unique. 
 
 ## What I took from the feed back
-The feedback gave me quite a shock and made me realize that my thoughts were quite shallow. What I wanted to explore was explored by many people before. I wanted to find a pattern showing the relationship between color and music. But after research, experiments, and feedback, I don’t think there is a pattern. The pattern, in other words, how color reflects different dimensions of music, is so subjective. Just like Sven said, 
-
-However, I don’t think it is a bad thing. 
+The feedback gave me quite a shock and made me realize that my thoughts were quite shallow. What I wanted to explore was explored by many people before. I wanted to find a pattern showing the relationship between color and music. But after research, experiments, and feedback, I don’t think there is a pattern. The pattern, in other words, how color reflects different dimensions of music, is so subjective. However, I don’t think it is a bad thing. 
 
 I looked over the reference in the feedback and found some other inspiring precedents. 
 First one is  ‘Unravelling Boléro’ by Anne Adams, which is a bar-by-bar representation of the popular classical piece Boléro by Maurice Ravel. Adams and Ravel are thought to have suffered from the same neurodegenerative condition which might lead to synaesthesia. What I found interesting is that when I did the little experiments with Boléro, I chosed totally different color from Adam, which proves that the pattern between color and music is totally a subjective thing. But it also means that I can create a rule of how visual elements represent different dimensions of music by myself in a very subjective way. 
