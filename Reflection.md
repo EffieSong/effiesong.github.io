@@ -27,6 +27,6 @@ First one is  ‘Unravelling Boléro’ by Anne Adams, which is a bar-by-bar rep
 Another is the Choral Color Experiment conducted by Radiolab which uses a choir to translate the color into harmonies. It’s base on the ideas that shrimps can see thousands color human could not see so the author thought that we could not see the brilliance of shrimpy rainbow but what if we can hear it. The same action of translating color into music, but the medium of the choir and the implementation method is super interesting to me. Rather than focusing on the establishing ruleset of translating, it’s more experimental, which also expand the limitations of the medium I’d like to use in the prototype.
 
 
-Although Sven suggested I continue exploring in 7 in 7 and be more experimental instead of trying to prove the relationship, I still want to try to establish a subjective rule of the relationship between music and color in 1-2 prototypes.  I’d be more experimental in other 7 in 7 prototypes.
+Although Sven suggested I continue exploring in 7 in 7 and be more experimental instead of trying to prove the relationship, I still want to try to establish a subjective rule of the relationship between music and color in 1-2 prototypes.  I’d be more experimental in other 7 in 7 prototypes, not just rule based, and try to expand "color" to other visual elements. I'd think of the medium of paper, video, audio, or even VR. I want to make this project more “art“ rather than creating a tool as I thought before.
 
 
