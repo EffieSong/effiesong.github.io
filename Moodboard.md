@@ -1,2 +1,2 @@
 
-![](https://github.com/EffieSong/effiesong.github.io/raw/master/pro2img-folder/My20%Post.jpg)
+![](https://github.com/EffieSong/effiesong.github.io/raw/master/pro2img-folder/My%20Post.jpg)
