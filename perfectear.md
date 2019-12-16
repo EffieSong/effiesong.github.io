@@ -4,7 +4,7 @@ My second desgin comes to: design a playful ear training tool for musicians to t
 Musicality means playing by ears, that means you can hear the notes you need to play in your head. And it is an important and desirable skill for all musicians. When a musician have a good musicality, he can think in music, hear patterns, recognize them, remember them, and perhaps manipulate them. So it is very important for all musicians.
 
 
-#### Inspiration
+### Inspiration
 What inspired me most is the solfege hand signs (also called the Kodaly hand signs or the Curwen hand signs)
 ![](https://github.com/EffieSong/effiesong.github.io/raw/master/finalimg-folder/solfegehandsign.jpg)
 This may seem funny, but there’s a real purpose to them. it provide a visual aid during singing exercises. The distance between them is also a good example of the size of the interval they represent. So I thought maybe I can use the gesture as an input to do something interesting.
